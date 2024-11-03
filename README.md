@@ -18,7 +18,8 @@ To write a python program to find the rank of a matrix
 ```   
 
 ## Output:
-Screenshot 2024-11-03 123210.png
+![Screenshot 2024-11-03 123210](https://github.com/user-attachments/assets/8be36ad4-b197-4375-b8df-df52de73f205)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
